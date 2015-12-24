@@ -7,3 +7,5 @@ freeglut,
 glm,
 irrklang
 
+![alt tag](https://github.com/su9nil14/Graphics-3d-Game---OpenGL-and-CPP/blob/master/Screenshot%20(46).png)
+.................................................................................................................
