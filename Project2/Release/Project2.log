@@ -1,0 +1,13 @@
+﻿  VboObject.cpp
+..\VboObject.cpp(196): warning C4018: '<' : signed/unsigned mismatch
+  main1.cpp
+..\main1.cpp(72): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+..\main1.cpp(272): warning C4244: '=' : conversion from 'unsigned long' to 'float', possible loss of data
+..\main1.cpp(282): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : see declaration of 'sprintf'
+..\main1.cpp(284): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+..\main1.cpp(285): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+..\main1.cpp(366): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+VboObject.obj : error LNK2001: unresolved external symbol "public: static struct glm::tvec3<float,0> VboObject::_location" (?_location@VboObject@@2U?$tvec3@M$0A@@glm@@A)
+C:\Users\sunil\Desktop\Lab 5 Code\Project2\Release\Project2.exe : fatal error LNK1120: 1 unresolved externals
