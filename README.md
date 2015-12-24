@@ -2,8 +2,8 @@
 first 3d game implemented on visual studio with opengl and c++
 
 Library used :
-assimp
-freeglut
-glm
+assimp,
+freeglut,
+glm,
 irrklang
 
